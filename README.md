@@ -4,7 +4,7 @@ Sono Eugenio è sono un programmatore informatico
 
 I linguaggi che conosco principlamento sono
 
-- Java, javascript, sql
+- ☕ Java, javascript, sql
 
 Ho utilizzato e utilizzo per creare api web restfull i seguenti framework
 
